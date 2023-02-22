@@ -1,0 +1,12 @@
+User instructions for padachEda.py:
+
+1. Make sure to download the file padachEda.py as well as both text files provided
+2. Run the program like a regular python file
+3. Enter either 'vayustuti.txt' or 'sandhi1.txt' when prompted for a file name.
+	*Alternatively, another kannada file may be provided for testing. It is recommended that
+	the file be free of any extra grammatical symbols, such as '||' or numbering.
+4. Check the output to see the most common akshara and the number of times it occurs.
+5. Open the parsed_text.txt file (found in the same directory as the padachEda.py file) to
+view the padachEda of the text. 
+	*Note that parsed_text.txt will be cleared each time the program runs, so previous pachEdas will not 
+	be accessible in future runs. 
